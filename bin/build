@@ -85,7 +85,7 @@ function error() {
 }
 
 # check for needed programs
-which -s $JSON_PARSER || error "Please install $JSON_PARSER."
+which $JSON_PARSER || error "Please install $JSON_PARSER."
 
 mkdir -p "$TARGET"
 mkdir -p "$BUILD_DIR"
