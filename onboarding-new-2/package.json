@@ -171,7 +171,7 @@
     "safe-buffer": "^5.2.1",
     "sha.js": "^2.4.11",
     "shasum": "^1.0.2",
-    "shell-quote": "^1.7.2",
+    "shell-quote": "^1.8.4",
     "simple-concat": "^1.0.1",
     "source-map": "^0.5.7",
     "shasum-object": "^1.0.0",
